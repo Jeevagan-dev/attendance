@@ -1,0 +1,6 @@
+5meUtxXIK3beVHYn
+
+smjeev2390
+
+
+mongodb+srv://smjeev2390:5meUtxXIK3beVHYn@cluster0.xocihfz.mongodb.net/
